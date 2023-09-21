@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low Poly Mountain scene
+* source:	https://sketchfab.com/3d-models/low-poly-mountain-scene-3c6a3e8c4d0a4c4aaa5dfbbd91107aa4
+* author:	David Junghanns (https://sketchfab.com/davidju)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low Poly Mountain scene" (https://sketchfab.com/3d-models/low-poly-mountain-scene-3c6a3e8c4d0a4c4aaa5dfbbd91107aa4) by David Junghanns (https://sketchfab.com/davidju) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
