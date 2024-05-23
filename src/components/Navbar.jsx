@@ -38,7 +38,7 @@ const Navbar = () => {
           window.scrollTo(0, 0);
         }}>
           <img src = {logo} alt="logo" className='w-9 h-9 object-contain' />
-          <p className='text-[#15d4e6] text-[18px] font-bold cursor-pointer'> What Scene? </p>
+          <p className='text-[#15d4e6] text-[18px] font-bold cursor-pointer'> Voyager.ai? </p>
         </Link>
         <ul className='list-none hidden sm:flex flex-row gap-10'>
           {navLinks.map((link) => (

@@ -1,4 +1,4 @@
-# What Scene: A 3D landing page for helping travellers create personalised trip itineraries (Using Three.js)
+# Voyager.ai: A 3D landing page for helping travellers create personalised trip itineraries (Using Three.js)
 
 How to run: <br />
 
