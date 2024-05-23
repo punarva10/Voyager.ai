@@ -14,7 +14,6 @@ const App = () => {
         <Working />
         <div className="relative z-0">
           <Waitlist />
-          <StarsCanvas />
         </div>
 
       </div>
